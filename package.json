@@ -1,10 +1,11 @@
 {
   "name": "@uiw/react-domain-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verify that the access domain name displays content.",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "scripts": {
+    "prepare": "npm run build",
     "doc": "ENTRYDIR=website kkt build",
     "start": "ENTRYDIR=website kkt start",
     "build": "npm run build:lib",
