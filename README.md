@@ -5,7 +5,7 @@ react-domain-verify
 [![](https://img.shields.io/github/issues/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/issues)
 [![](https://img.shields.io/github/forks/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/network)
 [![](https://img.shields.io/github/stars/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/stargazers)
-[![](https://img.shields.io/github/release/uiwjs/react-domain-verify)](https://github.com/uiwjs/react-domain-verify/releases)
+[![](https://img.shields.io/github/v/release/uiwjs/react-domain-verify)](https://github.com/uiwjs/react-domain-verify/releases)
 [![](https://img.shields.io/npm/v/@uiw/react-domain-verify.svg)](https://www.npmjs.com/package/@uiw/react-domain-verify)
 
 Verify that the access domain name displays content.
