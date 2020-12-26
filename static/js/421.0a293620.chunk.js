@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-domain-verify"]=this["webpackJsonp@uiw/react-domain-verify"]||[]).push([[421],{488:function(i,s){var a=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",a)}}]);
-//# sourceMappingURL=421.0a293620.chunk.js.map

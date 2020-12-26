@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-domain-verify"]=this["webpackJsonp@uiw/react-domain-verify"]||[]).push([[185],{252:function(t,i){Prism.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}}]);
-//# sourceMappingURL=185.28289f0e.chunk.js.map
