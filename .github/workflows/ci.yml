@@ -1,4 +1,4 @@
-name: GitHub Actions Build and Deploy react-domain-verify
+name: Build & Deploy
 on:
   push:
     branches:
