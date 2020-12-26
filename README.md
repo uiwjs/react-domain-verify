@@ -2,11 +2,13 @@ react-domain-verify
 ===
 
 <!--dividing-->
-[![](https://img.shields.io/github/issues/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/issues)
-[![](https://img.shields.io/github/forks/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/network)
-[![](https://img.shields.io/github/stars/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/stargazers)
-[![](https://img.shields.io/github/v/release/uiwjs/react-domain-verify)](https://github.com/uiwjs/react-domain-verify/releases)
-[![](https://img.shields.io/npm/v/@uiw/react-domain-verify.svg)](https://www.npmjs.com/package/@uiw/react-domain-verify)
+[![Build & Deploy](https://github.com/uiwjs/react-domain-verify/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/uiwjs/react-domain-verify/actions)
+[![issues](https://img.shields.io/github/issues/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/issues)
+[![issues](https://img.shields.io/github/issues/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/issues)
+[![Forks](https://img.shields.io/github/forks/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/network)
+[![Stars](https://img.shields.io/github/stars/uiwjs/react-domain-verify.svg)](https://github.com/uiwjs/react-domain-verify/stargazers)
+[![Release](https://img.shields.io/github/v/release/uiwjs/react-domain-verify)](https://github.com/uiwjs/react-domain-verify/releases)
+[![npm version](https://img.shields.io/npm/v/@uiw/react-domain-verify.svg)](https://www.npmjs.com/package/@uiw/react-domain-verify)
 
 Verify that the access domain name displays content.
 
