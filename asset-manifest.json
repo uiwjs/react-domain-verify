@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-domain-verify/static/css/main.dd8cbefa.css",
-    "main.js": "/react-domain-verify/static/js/main.bdcaa560.js",
-    "refractor-prismjs-vendor.js": "/react-domain-verify/static/js/refractor-prismjs-vendor.d46d8adb.js",
+    "main.css": "/react-domain-verify/static/css/main.7f511dda.css",
+    "main.js": "/react-domain-verify/static/js/main.b3117dba.js",
+    "refractor-prismjs-vendor.js": "/react-domain-verify/static/js/refractor-prismjs-vendor.abf645a4.js",
     "parse5-vendor.js": "/react-domain-verify/static/js/parse5-vendor.ece75c74.js",
     "react-vendor.js": "/react-domain-verify/static/js/react-vendor.ab0fdf82.js",
     "static/media/logo.svg": "/react-domain-verify/static/media/logo.3931a054f5ef8356122965d973d55570.svg",
     "index.html": "/react-domain-verify/index.html",
-    "main.dd8cbefa.css.map": "/react-domain-verify/static/css/main.dd8cbefa.css.map",
-    "main.bdcaa560.js.map": "/react-domain-verify/static/js/main.bdcaa560.js.map",
-    "refractor-prismjs-vendor.d46d8adb.js.map": "/react-domain-verify/static/js/refractor-prismjs-vendor.d46d8adb.js.map",
+    "main.7f511dda.css.map": "/react-domain-verify/static/css/main.7f511dda.css.map",
+    "main.b3117dba.js.map": "/react-domain-verify/static/js/main.b3117dba.js.map",
+    "refractor-prismjs-vendor.abf645a4.js.map": "/react-domain-verify/static/js/refractor-prismjs-vendor.abf645a4.js.map",
     "parse5-vendor.ece75c74.js.map": "/react-domain-verify/static/js/parse5-vendor.ece75c74.js.map",
     "react-vendor.ab0fdf82.js.map": "/react-domain-verify/static/js/react-vendor.ab0fdf82.js.map"
   },
   "entrypoints": [
-    "static/js/refractor-prismjs-vendor.d46d8adb.js",
+    "static/js/refractor-prismjs-vendor.abf645a4.js",
     "static/js/parse5-vendor.ece75c74.js",
     "static/js/react-vendor.ab0fdf82.js",
-    "static/css/main.dd8cbefa.css",
-    "static/js/main.bdcaa560.js"
+    "static/css/main.7f511dda.css",
+    "static/js/main.b3117dba.js"
   ]
 }
