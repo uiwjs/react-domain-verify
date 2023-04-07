@@ -1,6 +1,6 @@
 {
   "name": "@uiw/react-domain-verify",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Verify that the access domain name displays content.",
   "homepage": "https://uiwjs.github.io/react-domain-verify",
   "main": "cjs/index.js",
