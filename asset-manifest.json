@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-domain-verify/static/css/main.2be4a38a.css",
-    "main.js": "/react-domain-verify/static/js/main.88df1ad7.js",
+    "main.css": "/react-domain-verify/static/css/main.d8a3e2f4.css",
+    "main.js": "/react-domain-verify/static/js/main.d984c213.js",
     "refractor-prismjs-vendor.js": "/react-domain-verify/static/js/refractor-prismjs-vendor.d9dcc71f.js",
     "babel-vendor.js": "/react-domain-verify/static/js/babel-vendor.d7d8e1cc.js",
     "parse5-vendor.js": "/react-domain-verify/static/js/parse5-vendor.b0273ef4.js",
-    "react-vendor.js": "/react-domain-verify/static/js/react-vendor.3b1121e2.js",
+    "react-vendor.js": "/react-domain-verify/static/js/react-vendor.d2a7fe2a.js",
     "static/media/logo.svg": "/react-domain-verify/static/media/logo.3931a054f5ef8356122965d973d55570.svg",
     "index.html": "/react-domain-verify/index.html",
-    "main.2be4a38a.css.map": "/react-domain-verify/static/css/main.2be4a38a.css.map",
-    "main.88df1ad7.js.map": "/react-domain-verify/static/js/main.88df1ad7.js.map",
+    "main.d8a3e2f4.css.map": "/react-domain-verify/static/css/main.d8a3e2f4.css.map",
+    "main.d984c213.js.map": "/react-domain-verify/static/js/main.d984c213.js.map",
     "refractor-prismjs-vendor.d9dcc71f.js.map": "/react-domain-verify/static/js/refractor-prismjs-vendor.d9dcc71f.js.map",
     "babel-vendor.d7d8e1cc.js.map": "/react-domain-verify/static/js/babel-vendor.d7d8e1cc.js.map",
     "parse5-vendor.b0273ef4.js.map": "/react-domain-verify/static/js/parse5-vendor.b0273ef4.js.map",
-    "react-vendor.3b1121e2.js.map": "/react-domain-verify/static/js/react-vendor.3b1121e2.js.map"
+    "react-vendor.d2a7fe2a.js.map": "/react-domain-verify/static/js/react-vendor.d2a7fe2a.js.map"
   },
   "entrypoints": [
     "static/js/refractor-prismjs-vendor.d9dcc71f.js",
     "static/js/babel-vendor.d7d8e1cc.js",
     "static/js/parse5-vendor.b0273ef4.js",
-    "static/js/react-vendor.3b1121e2.js",
-    "static/css/main.2be4a38a.css",
-    "static/js/main.88df1ad7.js"
+    "static/js/react-vendor.d2a7fe2a.js",
+    "static/css/main.d8a3e2f4.css",
+    "static/js/main.d984c213.js"
   ]
 }
