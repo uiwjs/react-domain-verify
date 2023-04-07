@@ -19,10 +19,11 @@
     "declaration": true,
     "baseUrl": "website",
     "jsx": "react-jsx",
+    "outDir": "cjs",
     "noFallthroughCasesInSwitch": true,
     "noEmit": true
   },
   "include": [
-    "website"
+    "src"
   ]
 }
