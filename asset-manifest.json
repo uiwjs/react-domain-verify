@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/react-domain-verify/static/css/main.7f511dda.css",
-    "main.js": "/react-domain-verify/static/js/main.c9ce4e3c.js",
-    "refractor-prismjs-vendor.js": "/react-domain-verify/static/js/refractor-prismjs-vendor.abf645a4.js",
-    "parse5-vendor.js": "/react-domain-verify/static/js/parse5-vendor.ece75c74.js",
-    "react-vendor.js": "/react-domain-verify/static/js/react-vendor.ab0fdf82.js",
+    "main.css": "/react-domain-verify/static/css/main.2be4a38a.css",
+    "main.js": "/react-domain-verify/static/js/main.88df1ad7.js",
+    "refractor-prismjs-vendor.js": "/react-domain-verify/static/js/refractor-prismjs-vendor.d9dcc71f.js",
+    "babel-vendor.js": "/react-domain-verify/static/js/babel-vendor.d7d8e1cc.js",
+    "parse5-vendor.js": "/react-domain-verify/static/js/parse5-vendor.b0273ef4.js",
+    "react-vendor.js": "/react-domain-verify/static/js/react-vendor.3b1121e2.js",
     "static/media/logo.svg": "/react-domain-verify/static/media/logo.3931a054f5ef8356122965d973d55570.svg",
     "index.html": "/react-domain-verify/index.html",
-    "main.7f511dda.css.map": "/react-domain-verify/static/css/main.7f511dda.css.map",
-    "main.c9ce4e3c.js.map": "/react-domain-verify/static/js/main.c9ce4e3c.js.map",
-    "refractor-prismjs-vendor.abf645a4.js.map": "/react-domain-verify/static/js/refractor-prismjs-vendor.abf645a4.js.map",
-    "parse5-vendor.ece75c74.js.map": "/react-domain-verify/static/js/parse5-vendor.ece75c74.js.map",
-    "react-vendor.ab0fdf82.js.map": "/react-domain-verify/static/js/react-vendor.ab0fdf82.js.map"
+    "main.2be4a38a.css.map": "/react-domain-verify/static/css/main.2be4a38a.css.map",
+    "main.88df1ad7.js.map": "/react-domain-verify/static/js/main.88df1ad7.js.map",
+    "refractor-prismjs-vendor.d9dcc71f.js.map": "/react-domain-verify/static/js/refractor-prismjs-vendor.d9dcc71f.js.map",
+    "babel-vendor.d7d8e1cc.js.map": "/react-domain-verify/static/js/babel-vendor.d7d8e1cc.js.map",
+    "parse5-vendor.b0273ef4.js.map": "/react-domain-verify/static/js/parse5-vendor.b0273ef4.js.map",
+    "react-vendor.3b1121e2.js.map": "/react-domain-verify/static/js/react-vendor.3b1121e2.js.map"
   },
   "entrypoints": [
-    "static/js/refractor-prismjs-vendor.abf645a4.js",
-    "static/js/parse5-vendor.ece75c74.js",
-    "static/js/react-vendor.ab0fdf82.js",
-    "static/css/main.7f511dda.css",
-    "static/js/main.c9ce4e3c.js"
+    "static/js/refractor-prismjs-vendor.d9dcc71f.js",
+    "static/js/babel-vendor.d7d8e1cc.js",
+    "static/js/parse5-vendor.b0273ef4.js",
+    "static/js/react-vendor.3b1121e2.js",
+    "static/css/main.2be4a38a.css",
+    "static/js/main.88df1ad7.js"
   ]
 }
