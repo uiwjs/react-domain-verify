@@ -30,7 +30,7 @@
   "devDependencies": {
     "@uiw/react-github-corners": "^1.5.15",
     "@uiw/react-markdown-preview": "^4.1.10",
-    "@uiw/react-shields": "^1.1.3",
+    "@uiw/react-shields": "^2.0.0",
     "@uiw/reset.css": "^1.0.6",
     "@kkt/less-modules": "^7.4.9",
     "@kkt/raw-modules": "^7.4.9",
