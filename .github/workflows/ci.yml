@@ -8,10 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 16
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
 
       - run: npm install
@@ -54,9 +54,10 @@ jobs:
         uses: ncipollo/release-action@v1
         if: steps.create_tag.outputs.successful
         with:
+          allowUpdates: true
+          token: ${{ secrets.GITHUB_TOKEN }}
           name: ${{ steps.create_tag.outputs.version }}
           tag: ${{ steps.create_tag.outputs.version }}
-          token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/@uiw/react-domain-verify@${{steps.changelog.outputs.version}}/file/README.md) [![Coverage Status](https://coveralls.io/repos/github/uiwjs/react-only-when/badge.svg?branch=main)](https://coveralls.io/github/uiwjs/react-only-when?branch=main) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@uiw/react-domain-verify)](https://www.npmjs.com/package/@uiw/react-domain-verify)
 
@@ -69,7 +70,6 @@ jobs:
 
             ${{ steps.changelog.outputs.changelog }}
 
-      - run: npm publish
+      - run: NODE_AUTH_TOKEN="" npm publish --access public --provenance
+        name: 📦 @uiw/react-csv-reader publish to NPM
         continue-on-error: true
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
